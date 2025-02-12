@@ -1,0 +1,17 @@
+Heading Utama: Afriza Choirie Saputra
+H1: Afriza Choirie Saputra
+H2: Mahasiswa D4 Informatika
+H3: Tentang Saya
+H3: Pengalaman
+H3: Keterampilan
+H3: Hubungi Saya
+H4: Fakta Menarik
+Paragraf 1 dalam Tentang:
+          Halo, saya adalah seorang Mahasiswa D4 Informatika Politeknik Negeri Bandung. Saya memiliki minat dalam pengembangan web, pemrograman, dan desain.
+
+Paragraf 2 dalam Tentang:
+            Dalam bidang pengebangan web saat ini, saya masih tengah mempelajari bagaimana membuat website dasar yang melibatkan CSS dan Javascript. Untuk bidang pemrograman saat ini, saya sedang mempelajari bahasa pemrograman python, dan untuk bidang desain saat ini, saya sedang mempelajari bagaimana mendesain UI/UX yang baik dan sesuai dengan standar industri saat ini.
+
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #kontak - Kontak
